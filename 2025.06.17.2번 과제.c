@@ -1,4 +1,3 @@
-```
 #include <GL/freeglut.h>
 
 GLfloat rotate_angle = 0.0f;
@@ -84,4 +83,3 @@ int main(int argc, char** argv) {
     glutMainLoop();
     return 0;
 }
-```
